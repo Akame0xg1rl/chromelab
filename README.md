@@ -1,5 +1,4 @@
 # Chrome Internal URLs
-
 - [chrome://version](chrome://version) - Browser version and system info
 - [chrome://system](chrome://system) - Detailed system diagnostics 
 - [chrome://gpu](chrome://gpu) - Graphics features and status
