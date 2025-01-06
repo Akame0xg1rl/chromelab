@@ -1,22 +1,6 @@
-# Chrome Internal Pages
+# Chrome Internal URLs
 
-- chrome://version
-- chrome://system  
-- chrome://gpu
-- chrome://sandbox
-- chrome://flags
-- chrome://settings
-- chrome://extensions
-- chrome://downloads
-- chrome://history
-- chrome://bookmarks
-- chrome://passwords
-- chrome://components
-- chrome://inspect
-- chrome://net-internals
-- chrome://memory
-- chrome://sync-internals
-- chrome://dino
-- chrome://discards
-- chrome://device-log
-- chrome://media-internals
+- [chrome://version](chrome://version)
+- [chrome://flags](chrome-urls.html?url=flags)
+- [chrome://settings](chrome-urls.html?url=settings)
+- [Google](https://google.com)
